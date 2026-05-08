@@ -88,9 +88,9 @@ Results sorted in **descending order of maxPrice**.
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/healthcare-sql-analytics.git
+   git clone https://github.com/safvan-cheruvadi/SQL-PROJECT.git
    ```
-2. Import the database schema from `schema/database_schema.sql`
+2. Import the database schema from `schema/qustions.docx`
 3. Run individual solution files from the `solutions/` folder in your SQL client (MySQL Workbench / SSMS / DBeaver)
 
 ---
