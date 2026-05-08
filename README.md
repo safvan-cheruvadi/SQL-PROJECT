@@ -68,6 +68,8 @@ Results sorted in **descending order of maxPrice**.
 
 ---
 
+![Database Schema](schema/data base.png)
+
 ## 📁 Project Structure
 
 ```
