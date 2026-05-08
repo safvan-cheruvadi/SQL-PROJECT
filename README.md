@@ -7,7 +7,7 @@ A structured SQL project focused on real-world healthcare and insurance data ana
 ## 📌 Project Overview
 
 This project simulates a data analyst role where business teams — including insurance companies, healthcare departments, and product teams — request specific reports and insights from a relational database. Each problem statement is solved using optimized SQL queries and stored procedures.
-
+![Database Schema](https://github.com/safvan-cheruvadi/SQL-PROJECT/blob/main/schema/data%20base.png)
 ---
 
 ## 🗂️ Problem Statements
@@ -68,7 +68,7 @@ Results sorted in **descending order of maxPrice**.
 
 ---
 
-![Database Schema](https://github.com/safvan-cheruvadi/SQL-PROJECT/blob/main/schema/data%20base.png)
+
 
 ## 📁 Project Structure
 
