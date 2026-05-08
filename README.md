@@ -110,4 +110,4 @@ Results sorted in **descending order of maxPrice**.
 ## 👤 Author
 
 **SAFVAN**  
-[LinkedIn](www.linkedin.com/in/mohammed-safvan-e-) 
+[LinkedIn](https://www.linkedin.com/in/mohammed-safvan-e-/) 
