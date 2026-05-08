@@ -68,7 +68,7 @@ Results sorted in **descending order of maxPrice**.
 
 ---
 
-![Database Schema](schema/data base.png)
+![Database Schema](https://github.com/safvan-cheruvadi/SQL-PROJECT/blob/main/schema/data%20base.png)
 
 ## 📁 Project Structure
 
