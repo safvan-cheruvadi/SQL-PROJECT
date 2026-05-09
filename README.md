@@ -109,5 +109,8 @@ Results sorted in **descending order of maxPrice**.
 
 ## 👤 Author
 
-**SAFVAN**  
-[LinkedIn](https://www.linkedin.com/in/mohammed-safvan-e-/) 
+**SAFVAN** 
+
+Data Analyst
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammed-safvan-e-)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://https://github.com/safvan-cheruvadi)
